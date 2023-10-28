@@ -7,3 +7,6 @@ create a simple bank with golang
 in window for generate sqlc from docker you can use this command
 
 ```docker run --rm -v "%cd%:/src" -w /src sqlc/sqlc generate```
+
+
+sqlc: https://github.com/sqlc-dev/sqlc/tree/v1.4.0
